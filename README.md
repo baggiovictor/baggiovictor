@@ -17,6 +17,10 @@
   <a href="">
     <img src="https://img.shields.io/static/v1?label=&message=javascript&color=20232A&style=for-the-badge&logo=javascript"/>
   </a>
+  
+  <a href="">
+    <img src="https://img.shields.io/static/v1?label=&message=flutter&color=20232A&style=for-the-badge&logo=flutter"/>
+  </a>
 
 </div>
 
