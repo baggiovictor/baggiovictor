@@ -19,7 +19,7 @@
   </a>
     
   <a href="">
-    <img src="https://img.shields.io/static/v1?label=&message=react&color=20232A&style=for-the-badge&logo=flutter"/>
+    <img src="https://img.shields.io/static/v1?label=&message=react&color=20232A&style=for-the-badge&logo=react"/>
   </a>
 
 </div>
