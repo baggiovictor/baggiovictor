@@ -10,10 +10,6 @@
     <img src="https://img.shields.io/static/v1?label=&message=angular&color=BD002E&style=for-the-badge&logo=angular"/>
   </a>
   
-   <a href="">
-    <img src="https://img.shields.io/static/v1?label=&message=react&color=0068bd&style=for-the-badge&logo=react"/>
-  </a>
-
   <a href="">
     <img src="https://img.shields.io/static/v1?label=&message=typescript&color=20232A&style=for-the-badge&logo=typescript"/>
   </a>
