@@ -14,7 +14,7 @@
   <a href="">
     <img src="https://img.shields.io/static/v1?label=&message=javascript&color=20232A&style=for-the-badge&logo=javascript"/>
   </a>
-    <br/>
+   <br/>
 </div>
 
   <div align="center">
